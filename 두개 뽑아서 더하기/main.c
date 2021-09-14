@@ -29,4 +29,4 @@ int* solution(int numbers[], size_t numbers_len) {
     return answer;
 }
 
-github link : https://github.com/ppangjong/programmers.git
+// github link : https://github.com/ppangjong/programmers.git
